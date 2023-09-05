@@ -1,0 +1,21 @@
+Documentation:
+
+In this app we have created the version wise apis with django rest framework with JWT based default authentication.
+
+Following steps will be needed for running the project.
+
+System must have python installed
+
+Go to project folder located manage.py
+Install the libraries by using command "pip install -r requirements.txt"
+After installing all the relavant libraries
+Perform following commmands 
+
+python manage.py makemigrations
+python manage.py migrate
+python manage.py create_system_roles
+python manage.py createsuperuser
+python manage.py runserver
+
+Now this is the postman collection link you can import the postman collection and test all the apis
+https://api.postman.com/collections/23857024-d0b2a833-8705-4af8-bb91-f4e751878027?access_key=PMAT-01H9J9W2GKAB5VE885YKVCV48G

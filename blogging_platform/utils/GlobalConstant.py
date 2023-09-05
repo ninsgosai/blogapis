@@ -1,0 +1,17 @@
+Data = {
+    "loggedin_success":"Login successful.",
+    "invalid_email_address":"The Email is invalid.",
+    "deleted_user_email_address":"The Email is deleted.",
+    "unable_login":"The email or password you are trying to login to is not valid.",
+    "invalid_email_address":"Please enter valid email address.",
+    "email_address_exists":"The email address already exists.",
+    "signup_successfully":"Signup successful.",
+    "blog_post_successfully":"Blog posted successfully.",
+    "blog_post_successfully_updated":"Blog posted updated successfully.",
+    "blog_post_delete":"Blog posted deleted successfully.",
+    "comment_delete":"Blog comment deleted successfully.",
+    "comment_successfully":"Comment added successfully.",
+    "comment_successfully_updated":"Comment updated successfully.",
+    "invalid_comment":"Comment id doesn't exists.",
+    "no_rights":"Only admin or relavant user can perform this action.",
+}
